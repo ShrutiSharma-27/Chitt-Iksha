@@ -83,4 +83,5 @@ On clicking videos
 There are other options also available. You can click on the website link in starting and checkout yourself.
 
 Note : To see the code for parallax effect in landing page and html file you can refer to this github repo : https://github.com/nisha-laur/Chitt-Iksha
+
 The other pages except landing page are made by using Wix.
